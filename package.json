@@ -6,12 +6,17 @@
   "scripts": {
     "start": "gulp"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:vgorbic1/contact-form.git"
+  },
   "author": "Vladislav Gorbich",
   "license": "MIT",
   "devDependencies": {
     "minimatch": ">=3.0.2",
     "gulp": "^3.9.1",
-    "gulp-connect-php": "^1.0.3"
+    "gulp-connect-php": "^1.0.3",
+    "lodash": ">=4.17.5"
   },
   "dependencies": {}
 }
